@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Daniel Dinh
+2. Student ID: 2376135
+3. Email: dadinh@chapman.edu
+4. Class: CPSC-298
 5. Assignment: numbers 
 
 ## Application Purpose
